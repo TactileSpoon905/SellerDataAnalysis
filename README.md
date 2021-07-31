@@ -3,5 +3,5 @@ The following is a data analysis task as part of a volunteering activity at Amaz
 ## Objective 
 Visually summarize & obtain insightful data for business reporting for a deep-dive data analysis project for Amazon's catalogue seller program using SQL. We use seller comments for each ASIN to identify issue and assign to a category.
 ## Tools required
-MS Excel workbook: SQL_categ_log.xlsx
+MS Excel workbook: SQL_categ_log.xlsx,
 Microsoft SQL (Azure Data studio)
